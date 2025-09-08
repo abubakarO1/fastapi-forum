@@ -31,20 +31,8 @@ Authentication is handled with JWT tokens.
 
 ## 📂 Project Structure
 
-forum-api/
-│── app/
-│ ├── main.py # Entry point
-│ ├── database.py # DB connection
-│ ├── models.py # SQLAlchemy models
-│ ├── schemas.py # Pydantic schemas
-│ ├── routers/
-│ │ ├── auth.py # Authentication routes
-│ │ ├── threads.py # Thread routes
-│ │ ├── posts.py # Post routes
-│ │ └── comments.py # Comment routes
-│── .env # Environment variables
-│── requirements.txt # Python dependencies
-│── README.md # Project documentation
+<img width="455" height="379" alt="image" src="https://github.com/user-attachments/assets/8ea1c2f2-7ea6-4810-be06-9d2ac3027564" />
+
 
 
 ---
